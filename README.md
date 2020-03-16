@@ -10,7 +10,7 @@ My works related to Angular web application framework led by the Angular Team at
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="babel.png" height="110"> 
+<img src="angular.png" height="110"> 
 Angular (commonly referred to as "Angular 2+" or "Angular v2 and above") is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
 
 <a name="references"></a>
