@@ -31,7 +31,7 @@ Stack Overflow questions and answers : https://stackoverflow.com <br />
 [ draft ] <br />
 
 **_Angular related articles_** <br />
-[ draft ] <br />
+How To Use An Interface In Angular by Vegibit : https://vegibit.com/how-to-use-an-interface-in-angular <br />
 
 <a name="developers"></a>
 ## 3. Angular developers.
