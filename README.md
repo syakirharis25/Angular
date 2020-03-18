@@ -16,6 +16,7 @@ Angular (commonly referred to as "Angular 2+" or "Angular v2 and above") is a Ty
 <a name="references"></a>
 ## 2. Official references websites. 
 Angular official website : https://angular.io <br />
+Angular official GitHub repository : https://github.com/angular/angular <br />
 
 **_Angular questions and answers_** <br />
 Stack Overflow questions and answers : https://stackoverflow.com <br />
