@@ -4,9 +4,8 @@ My works related to Angular web application framework led by the Angular Team at
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Angular developers.](#developers)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -29,18 +28,11 @@ FormsModule by angular.io : https://angular.io/api/forms/FormsModule <br />
 User input by angular.io : https://angular.io/guide/user-input <br />
 OnInit by angular.io : https://angular.io/api/core/OnInit <br />
 
-**_Angular questions and answers by Stack Overflow_** <br />
-[ draft ] <br />
-
 **_Angular related articles_** <br />
 How To Use An Interface In Angular by Vegibit : https://vegibit.com/how-to-use-an-interface-in-angular <br />
-
-<a name="developers"></a>
-## 3. Angular developers.
-[ draft ]
  
 <a name="github"></a>
-## 4. GitHub notes.
+## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Angular.git
@@ -50,7 +42,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 4. GitHub repository calculation.
 ```
 draft
 ```
