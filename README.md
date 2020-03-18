@@ -26,6 +26,7 @@ Stack Overflow questions and answers : https://stackoverflow.com <br />
 
 **_Angular documentation by webpack.js.org_** <br />
 FormsModule by angular.io : https://angular.io/api/forms/FormsModule <br />
+User input by angular.io : https://angular.io/guide/user-input <br />
 
 **_Angular questions and answers by Stack Overflow_** <br />
 [ draft ] <br />
